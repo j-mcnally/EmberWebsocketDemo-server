@@ -1,0 +1,10 @@
+{
+  "name": "websocket-demo",
+  "description": "Just an app for demoing websockets in ember",
+  "author": "Justin McNally <justin@kohactive.com>",
+  "dependencies": {
+     "express": "3.x",
+     "faye": "1.0.1"
+  },
+  "engine": "node >= 10.0.0"
+}
